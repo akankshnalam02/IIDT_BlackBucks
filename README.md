@@ -32,5 +32,11 @@ challenges.
    - [Training and Evaluation](#training-and-evaluation)
 5. [Implementation Details](#implementation-details)
 6. [Evaluation and Results](#evaluation-and-results)
-7. [Conclusion](#conclusion)
-8. [References](#references)
+
+## 7. Conclusion
+The project demonstrates the effectiveness of CNNs in image classification using CIFAR-10, achieving significant accuracy and robustness through proper preprocessing and architecture design.
+
+## 8. References
+- CIFAR-10 Dataset: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
+- TensorFlow Documentation: [https://www.tensorflow.org/](https://www.tensorflow.org/)
+- PyTorch Documentation: [https://pytorch.org/](https://pytorch.org/)
