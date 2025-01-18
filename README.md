@@ -16,3 +16,21 @@ underscore the potential of the CNN for robust image classification, with opport
 refinement to enhance its effectiveness. This work advances the understanding of CNN design
 principles and showcases their practical application in addressing real-world image classification
 challenges.
+
+
+## Table of Contents
+1. [Introduction](#introduction)
+   - [Problem Definition](#problem-definition)
+   - [Objectives](#objectives)
+2. [Dataset Description](#dataset-description)
+3. [System Requirements](#system-requirements)
+   - [Hardware Requirements](#hardware-requirements)
+   - [Software Requirements](#software-requirements)
+4. [Methodology](#methodology)
+   - [Data Preprocessing](#data-preprocessing)
+   - [Model Architecture](#model-architecture)
+   - [Training and Evaluation](#training-and-evaluation)
+5. [Implementation Details](#implementation-details)
+6. [Evaluation and Results](#evaluation-and-results)
+7. [Conclusion](#conclusion)
+8. [References](#references)
